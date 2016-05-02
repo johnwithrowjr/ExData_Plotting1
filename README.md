@@ -1,3 +1,20 @@
+## Assignment Submission for Dr. John R. Withrow, Jr.
+# Exploratory Data Analysis (Coursera - Johns Hopkins University, Spring 2016)
+
+The purpose of this assignment was to demonstrate proficiency in creating plots in R
+via the replication of a series of plots provided by the instructor.  The enclosed
+submission takes the form of the following files:
+
+README.md - This README file
+plot1.R - R code for the creation of plot1.png, also enclosed
+plot2.R - R code for the creation of plot2.png, also enclosed
+plot3.R - R code for the creation of plot3.png, also enclosed
+plot4.R - R code for the creation of plot4.png, also enclosed
+
+## Details of assignment as provided by the instructor follow -
+
+____________________________________
+
 ## Introduction
 
 This assignment uses data from
